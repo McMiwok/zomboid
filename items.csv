@@ -1,0 +1,9 @@
+ID,Name,Type,Condition,Amount
+1,Hummer,Tool,Mint,10
+2,Nails,Fasteners,Good,450
+2,Nails,Fasteners,Bad,100
+3,Screwdriver,Tool,Average,5
+4,Handgun,Weapon,Good,2
+5,Bullet,Ammo,Mint,150
+5,Bullet,Ammo,Bad,10
+1,Hummer,Tool,Bad,1
